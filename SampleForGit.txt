@@ -32,3 +32,4 @@ Customer collaboration over contract negotiation. ...
 Responding to change over following a plan.
 add check
 Add Second Check
+Newly added some options
