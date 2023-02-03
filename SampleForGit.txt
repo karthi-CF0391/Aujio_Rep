@@ -1,0 +1,32 @@
+
+Augio
+Nivaa
+ArtWork Management 
+Back at you 
+Promotive cars
+Dhee
+Swap
+Josh
+
+
+In augio artist, instrumentalist, producer only have song upload permissions listerns only hearing and mention as favorite those songs that qa environment first i have
+login as artist and upload song then logout then login as listner that time listners section song upload options avilable and my uploads section also available
+
+then my previous logistics project in staging environment thats have different forms like k1 import k2 export in k1 form i have mention from country as india and to country as usa
+and mention some custom station code and hs code 
+
+in my insurance project project ridres are some age restrictions and premium values are differs from age 50 have get increasing premium values that time moving
+ to staging to that time more that 50 years will have allowed all ridres and low premium for only selct that rider  
+
+400 - bad request
+401 - un authorized 
+402 - Payment required 
+403-  a client is forbidden from accessing a valid URL.
+404 - page not found
+
+Agile
+
+Individuals and interactions over processes and tools. ...
+Working software over comprehensive documentation. ...
+Customer collaboration over contract negotiation. ...
+Responding to change over following a plan.
